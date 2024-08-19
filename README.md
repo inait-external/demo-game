@@ -1,3 +1,3 @@
 # pygame-demo
 
-Go to [https://fantastic-robot-m656485.pages.github.io/](https://fantastic-robot-m656485.pages.github.io/)
+Go to [https://inait-external.github.io/demo-game/](https://inait-external.github.io/demo-game/)
